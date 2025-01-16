@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "525561092310",
+    "project_id": "bedev-mp3",
+    "storage_bucket": "bedev-mp3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525561092310:android:cd82707cf677df2050d177",
+        "android_client_info": {
+          "package_name": "com.aplikasii.mp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525561092310-a99tsr4ha7434nd0j5kep3l7dsq0apqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aplikasii.mp3",
+            "certificate_hash": "203b7634d42048591b5d1b9df47abf0465c454af"
+          }
+        },
+        {
+          "client_id": "525561092310-nqtgh3pkm5s277nlekb7229gtnlvuge5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aplikasii.mp3",
+            "certificate_hash": "6e38878637709c32374d5fdade7fd48ccb34053d"
+          }
+        },
+        {
+          "client_id": "525561092310-38ie453st1kmmjf52kftvsmctcn8c8e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTl4OWS6QFKEKoVr5nd34AUL91C9cLwY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525561092310-38ie453st1kmmjf52kftvsmctcn8c8e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

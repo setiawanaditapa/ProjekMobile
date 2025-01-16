@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">525561092310-38ie453st1kmmjf52kftvsmctcn8c8e8.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">525561092310</string>
+    <string name="google_api_key" translatable="false">AIzaSyBTl4OWS6QFKEKoVr5nd34AUL91C9cLwY0</string>
+    <string name="google_app_id" translatable="false">1:525561092310:android:cd82707cf677df2050d177</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBTl4OWS6QFKEKoVr5nd34AUL91C9cLwY0</string>
+    <string name="google_storage_bucket" translatable="false">bedev-mp3.firebasestorage.app</string>
+    <string name="project_id" translatable="false">bedev-mp3</string>
+</resources>
